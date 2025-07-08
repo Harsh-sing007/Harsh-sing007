@@ -8,7 +8,15 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=🌟%20Keep%20Hustling!%20🌟&fontSize=40&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9B59B6&height=150&section=header&text=🌟%20KEEP%20HUSTLING%20🌟&fontSize=40&animation=twinkling&fontColor=fff"/>
+  <br>
+  <span style="font-size:1.5em; color:#F7B32B; font-weight:bold;">
+    <pre>
+      ╔══════════════════════════════════════════╗
+      ║      KEEP PUSHING FORWARD, CODE HARD!    ║
+      ╚══════════════════════════════════════════╝
+    </pre>
+  </span>
 </p>
 
 ---
@@ -31,13 +39,14 @@
 
 - 🛠️ Passionate about clean code, scalable solutions, and software craftsmanship  
 - 🌱 Currently exploring DevOps, Docker, CI/CD, and AWS  
-- 🏆 Strong believer in lifelong learning and growth mindset  
+- ☁️ Cloud-native architectures and distributed systems enthusiast  
+- 🏆 Strong believer in lifelong learning and a growth mindset  
 - 🤝 Love collaborating on open-source and building impactful digital products  
-- 📈 Keen interest in cloud-native architectures and distributed systems  
-- 💡 Always eager to adopt best practices, automate workflows, and optimize for performance  
+- 📈 Always eager to adopt best practices, automate workflows, and optimize for performance  
 - ✍️ Regularly participate in coding platforms like LeetCode to sharpen my skills  
 - 🌐 Advocate for sharing knowledge and mentoring others in the community  
 - 🚀 Striving to turn ideas into reality through technology and innovation  
+- 🔍 Focused on continuous improvement and innovative problem-solving  
 
 ---
 
@@ -45,10 +54,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harsh-sing007&show_icons=true&theme=radical&border_radius=30&hide_border=true&custom_title=Harsh Singh's GitHub Stats"/>
-  <br>
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Harsh-sing007&theme=radical&hide_border=true&border_radius=30&fire=DD2727&background=161B22&currStreakLabel=F7B32B" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-sing007&layout=compact&theme=radical&hide_border=true&border_radius=30" alt="Top Languages" />
 </div>
 
 ---
@@ -56,7 +63,7 @@
 ## 📈 Weekly Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-sing007&theme=react-dark&custom_title=Weekly%20GitHub%20Activity%20Graph&hide_border=true" alt="Weekly Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-sing007&theme=react-dark&custom_title=Weekly%20GitHub%20Activity%20Graph&hide_border=true&area=true&area_color=36BCF7" alt="Weekly Activity Graph"/>
 </div>
 
 ---
@@ -73,9 +80,9 @@
 
 ## 💡 Developer Quote
 
-<p align="center">
+<p align="center" style="font-size:1.2em; color:#F7B32B;">
   <b>
-    “Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.”  
+    “Don’t watch the clock; do what it does. Keep going.”  
   </b>
 </p>
 
@@ -83,11 +90,11 @@
 
 <blockquote style="font-size: 1.15em; background: #222; color: #fff; border-left: 6px solid #36BCF7; padding: 1.2em 1.5em; margin: 2em 0; border-radius: 8px;">
   <b>
-    “The best way to predict the future is to invent it.  
+    “Your journey as a developer is not just about learning new technologies, but about building resilience, embracing failure, and continuously adapting.  
     <br>
-    Embrace challenges, keep learning, share your knowledge, and never stop building.  
+    The lines you write today are the stepping stones for the innovations of tomorrow.  
     <br>
-    Your code can change the world—one commit at a time.”
+    Stay curious, stay passionate, and let your code create a lasting impact.”
   </b>
 </blockquote>
 
