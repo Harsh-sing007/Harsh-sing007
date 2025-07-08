@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F700&center=true&vCenter=true&width=800&lines=🌟+Keep+Hustling!+🌟;Push+boundaries%2C+embrace+the+grind%2C+and+let+your+code+change+the+world." alt="Keep Hustling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=🌟%20Keep%20Hustling!%20🌟&fontSize=40&animation=twinkling"/>
 </p>
 
 ---
@@ -29,26 +29,35 @@
 
 ## 👨‍💻 About Me
 
-- 🛠️ Passionate about clean code and scalable solutions  
-- 🌱 Exploring DevOps, Docker, CI/CD, and AWS  
+- 🛠️ Passionate about clean code, scalable solutions, and software craftsmanship  
+- 🌱 Currently exploring DevOps, Docker, CI/CD, and AWS  
+- 🏆 Strong believer in lifelong learning and growth mindset  
+- 🤝 Love collaborating on open-source and building impactful digital products  
+- 📈 Keen interest in cloud-native architectures and distributed systems  
+- 💡 Always eager to adopt best practices, automate workflows, and optimize for performance  
+- ✍️ Regularly participate in coding platforms like LeetCode to sharpen my skills  
+- 🌐 Advocate for sharing knowledge and mentoring others in the community  
+- 🚀 Striving to turn ideas into reality through technology and innovation  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-sing007&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-sing007&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-sing007&show_icons=true&theme=radical&border_radius=30&hide_border=true&custom_title=Harsh Singh's GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harsh-sing007&theme=radical&hide_border=true&border_radius=30&fire=DD2727&background=161B22&currStreakLabel=F7B32B" alt="GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-sing007&layout=compact&theme=radical&hide_border=true&border_radius=30" alt="Top Languages" />
+</div>
 
 ---
 
-## 🟩 GitHub Activity Graph
+## 📈 Weekly Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Harsh-sing007&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-sing007&theme=react-dark&custom_title=Weekly%20GitHub%20Activity%20Graph&hide_border=true" alt="Weekly Activity Graph"/>
+</div>
 
 ---
 
@@ -65,10 +74,22 @@
 ## 💡 Developer Quote
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7B32B&center=true&vCenter=true&width=700&lines=%22Programs+must+be+written+for+people+to+read%2C+and+only+incidentally+for+machines+to+execute.%22+-+Harold+Abelson" alt="Developer Quote" />
+  <b>
+    “Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.”  
+  </b>
 </p>
 
 ---
+
+<blockquote style="font-size: 1.15em; background: #222; color: #fff; border-left: 6px solid #36BCF7; padding: 1.2em 1.5em; margin: 2em 0; border-radius: 8px;">
+  <b>
+    “The best way to predict the future is to invent it.  
+    <br>
+    Embrace challenges, keep learning, share your knowledge, and never stop building.  
+    <br>
+    Your code can change the world—one commit at a time.”
+  </b>
+</blockquote>
 
 <p align="center">
   <b>✨ Thanks for visiting my profile! ✨</b>
