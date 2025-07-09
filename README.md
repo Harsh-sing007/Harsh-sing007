@@ -3,7 +3,7 @@
 -->
 
 # Hey 👋, I'm Harsh Singh  
-![Straw Hat Crew Happy Faces](https://media.giphy.com/media/26uf9QPzzlKPvQG5K/giphy.gif)
+![Straw Hat Crew Happy Faces](https://media.giphy.com/media/koUtwnrlTN07K/giphy.gif)
 
 ☁️ cloud computing &nbsp;|&nbsp; 🚀 Tech Enthusiast &nbsp;|&nbsp; 🧠 Lifelong Learner
 
@@ -57,7 +57,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harsh-sing007&show_icons=true&theme=radical&border_radius=30&hide_border=true&custom_title=Harsh Singh's GitHub Stats"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harsh-sing007&theme=radical&hide_border=true&border_radius=30&fire=DD2727&background=161B22&currStreakLabel=F7B32B" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harsh-sing007&theme=radical&hide_border=true&border_radius=30&fire=DD2727&background=161B22&currStreakLabel=F7B32B" alt="GitHub Streak[...]
 </div>
 
 ---
@@ -65,7 +65,7 @@
 ## 📈 Weekly Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-sing007&theme=react-dark&custom_title=Weekly%20GitHub%20Activity%20Graph&hide_border=true&area=true&area_color=36BCF7"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-sing007&theme=react-dark&custom_title=Weekly%20GitHub%20Activity%20Graph&hide_border=true&area=true&area_color=36BCF7"/[...]
 </div>
 
 ---
