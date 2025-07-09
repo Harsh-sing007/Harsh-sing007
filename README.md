@@ -3,6 +3,8 @@
 -->
 
 # Hey 👋, I'm Harsh Singh  
+![Straw Hat Crew Happy Faces](https://media.giphy.com/media/26uf9QPzzlKPvQG5K/giphy.gif)
+
 ☁️ cloud computing &nbsp;|&nbsp; 🚀 Tech Enthusiast &nbsp;|&nbsp; 🧠 Lifelong Learner
 
 ---
@@ -63,7 +65,7 @@
 ## 📈 Weekly Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-sing007&theme=react-dark&custom_title=Weekly%20GitHub%20Activity%20Graph&hide_border=true&area=true&area_color=36BCF7" alt="Weekly Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-sing007&theme=react-dark&custom_title=Weekly%20GitHub%20Activity%20Graph&hide_border=true&area=true&area_color=36BCF7"/>
 </div>
 
 ---
