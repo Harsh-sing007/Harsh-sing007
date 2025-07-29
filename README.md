@@ -1,106 +1,96 @@
-<!--
-**Harsh-sing007/Harsh-sing007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<h1 align="center">Hey there 👋, I'm Harsh</h1>
 
 <p align="center">
-  <h1 align="center">Hey 👋, I'm Harsh Singh</h1>
+  <em>Cloud Computing Student • Learning AI • Web Dev Enthusiast</em><br/>
+  <em>Trying → Failing → Learning → Repeating 📚</em>
 </p>
 
-☁️ cloud computing &nbsp;|&nbsp; 🚀 Tech Enthusiast &nbsp;|&nbsp; 🧠 Lifelong Learner
+---
+
+### 🧠 About Me
+
+I'm Harsh — not a natural-born coder, but someone who's putting in the work to improve every day.  
+I started off feeling overwhelmed by code, but slowly, I’ve begun to see it as a tool for *creation and clarity*.  
+
+Currently pursuing my degree in **Cloud Computing**, I’m exploring:
+
+- 🧠 The intersection of **AI & human decision-making**
+- ☁️ How **cloud services** can power next-gen apps
+- 🌐 Building projects using **React** & **Next.js**
+
+I’m especially drawn to **AI research** and how it reshapes the future of learning, healthcare, automation, and creativity.
 
 ---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9B59B6&height=150&section=header&text=🌟%20KEEP%20HUSTLING%20🌟&fontSize=40&animation=twinkling&fontColor=fff"/>
-  <br>
-  <span style="font-size:1.5em; color:#F7B32B; font-weight:bold;">
-    <pre>
-      ╔══════════════════════════════════════════╗
-      ║      KEEP PUSHING FORWARD, CODE HARD!    ║
-      ╚══════════════════════════════════════════╝
-    </pre>
-  </span>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
 ---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harsh-singh1712/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/u/Harshsi17/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="mailto:harshsingh45831@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🛠️ Passionate about clean code, scalable solutions, and software craftsmanship  
-- 🌱 Currently exploring DevOps, Docker, CI/CD, and AWS  
-- ☁️ Cloud-native architectures and distributed systems enthusiast  
-- 🏆 Strong believer in lifelong learning and a growth mindset  
-- 🤝 Love collaborating on open-source and building impactful digital products  
-- 📈 Always eager to adopt best practices, automate workflows, and optimize for performance  
-- ✍️ Regularly participate in coding platforms like LeetCode to sharpen my skills  
-- 🌐 Advocate for sharing knowledge and mentoring others in the community  
-- 🚀 Striving to turn ideas into reality through technology and innovation  
-- 🔍 Focused on continuous improvement and innovative problem-solving  
-
----
-
-## 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-sing007&show_icons=true&theme=radical&border_radius=30&hide_border=true&custom_title=Harsh Singh's GitHub Stats"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harsh-sing007&theme=radical&hide_border=true&border_radius=30&fire=DD2727&background=161B22&currStreakLabel=F7B32B" alt="GitHub Streak"/>
-</div>
-
----
-
-## 📈 Weekly Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-sing007&theme=react-dark&custom_title=Weekly%20GitHub%20Activity%20Graph&hide_border=true&area=true&area_color=36BCF7"/>
-</div>
-
----
-
-## 📚 My Repositories
+### 🧩 Languages I Use
 
 <p align="center">
-  <a href="https://github.com/Harsh-sing007?tab=repositories">
-    <img src="https://img.shields.io/badge/See%20All%20Repositories-181717?style=for-the-badge&logo=github" alt="All Repositories" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 💡 Developer Quote
-
-<p align="center" style="font-size:1.2em; color:#F7B32B;">
-  <b>
-    “Don’t watch the clock; do what it does. Keep going.”  
-  </b>
-</p>
-
----
-
-<blockquote style="font-size: 1.15em; background: #222; color: #fff; border-left: 6px solid #36BCF7; padding: 1.2em 1.5em; margin: 2em 0; border-radius: 8px;">
-  <b>
-    “Your journey as a developer is not just about learning new technologies, but about building resilience, embracing failure, and continuously adapting.  
-    <br>
-    The lines you write today are the stepping stones for the innovations of tomorrow.  
-    <br>
-    Stay curious, stay passionate, and let your code create a lasting impact.”  
-  </b>
-</blockquote>
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <b>✨ Thanks for visiting my profile! ✨</b>
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-bg=true&no-frame=true" alt="Trophies" />
 </p>
+
+---
+
+### 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&bg_color=1a1b27&color=ffffff&line=00c5df&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 🧠 Quote I Live By
+
+> *“Code is not just syntax. It’s the language of possibility — and I’m learning to speak it.”*
+
+---
+
+### 🔗 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/your-leetcode-link/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🚧 Currently Working On
+
+- 🔬 Diving into AI research topics like transformers and agents
+- 💻 Building cloud-based projects using AWS + Next.js
+- 🧩 Strengthening DSA & problem-solving through LeetCode
+
+---
+
+> Thanks for stopping by! If you like what I do, feel free to star ⭐ a repo or connect 🤝.
+
