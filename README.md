@@ -3,81 +3,89 @@
 </h1>
 
 <p align="center">
-  AI Systems · Cloud Infrastructure · Web Engineering
+  Vigilant Systems · Silent Code · Gotham Mindset
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harsh-sing007&label=views&color=gray&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Harsh-sing007&label=signals&color=0d1117&style=flat-square" />
 </p>
 
 ---
 
-## Research Orientation
+## The Code Behind the Mask
 
-I explore how **intelligent systems** are built, deployed, and scaled in real environments.
+I build systems quietly.
 
-My work focuses on:
-- understanding AI beyond interfaces  
-- combining cloud infrastructure with intelligent workflows  
-- building systems that are observable, reproducible, and maintainable  
+No shortcuts.  
+No noise.  
+Only **discipline, fundamentals, and execution**.
 
-I value **rigor, simplicity, and correctness**.
-
----
-
-## Current Research & Engineering Interests
-
-- Large Language Models (prompting, agents, orchestration)
-- Natural Language Processing fundamentals
-- AI-assisted developer tooling
-- Cloud-native application architecture (AWS)
-- System design, OS concepts, and networking
-- Frontend systems as interfaces to intelligence
+Like Batman, I don’t rely on superpowers —  
+I rely on **preparation, tools, and understanding how systems break**.
 
 ---
 
-## Tooling & Stack
+## Operating Principles
+
+- Master the fundamentals before chasing complexity
+- Build for failure, observability, and recovery
+- Learn systems end-to-end: interface → logic → infrastructure
+- Stay silent. Let the work speak.
+
+---
+
+## Arsenal
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-ffffff?style=flat-square&logo=amazonaws&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Docker-ffffff?style=flat-square&logo=docker&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Linux-ffffff?style=flat-square&logo=linux&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Git-ffffff?style=flat-square&logo=git&logoColor=000000" />
+  <img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=ffffff" />
   <br/>
-  <img src="https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Next.js-ffffff?style=flat-square&logo=nextdotjs&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Tailwind-ffffff?style=flat-square&logo=tailwindcss&logoColor=000000" />
-  <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=ffffff" />
 </p>
 
 ---
 
-## Activity
+## Current Operations
+
+- Cloud-native deployments (AWS, Vercel)
+- AI-assisted systems and workflows
+- Frontend architecture as controlled interfaces
+- System fundamentals: OS, networking, backend integration
+- Algorithmic thinking and problem-solving
+
+---
+
+## Night Watch (Activity)
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harsh-sing007&show_icons=true&theme=graywhite&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Harsh-sing007&theme=graywhite&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harsh-sing007&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Harsh-sing007&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-## Language Signal
+## Skill Signal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-sing007&layout=compact&theme=graywhite&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-sing007&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## Contribution Graph
+## Gotham Pulse
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-sing007&bg_color=ffffff&color=000000&line=666666&point=000000&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-sing007&bg_color=0d1117&color=ffffff&line=f5c518&point=ffffff&hide_border=true" />
 </p>
 
 ---
 
-## Contact
+## Contact the Bat-Signal
 
 <p>
   <a href="mailto:harshsingh45831@gmail.com">email</a> ·
@@ -88,4 +96,4 @@ I value **rigor, simplicity, and correctness**.
 
 ---
 
-> Precision over noise.
+> “It’s not who I am underneath, but what I build that defines me.”
