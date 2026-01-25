@@ -3,134 +3,91 @@
 </h1>
 
 <p align="center">
-  building · learning · refining
+  Cloud · AI · Web Systems
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harsh-sing007&label=views&color=0e75b6&style=flat-square" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=900&center=true&vCenter=true&width=520&lines=building+systems+that+make+sense;learning+by+doing;thinking+in+flows+not+features" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harsh-sing007&label=views&color=7c7c7c&style=flat-square" />
 </p>
 
 ---
 
-## A short introduction (worth reading)
+## 👋 Quick context
 
-I’m a **Cloud Computing student** who didn’t fall in love with coding overnight.
+I’m a **Cloud Computing student** exploring how **modern systems are built, deployed, and evolved**.
 
-I struggled with it.
-I questioned myself.
-And then I stayed.
+I like working where:
+- infrastructure meets code  
+- interfaces shape intelligence  
+- small decisions scale into big outcomes  
 
-What changed things for me was not motivation — it was **understanding**.  
-Once I started seeing how systems connect, how decisions compound, and how small improvements stack over time, building became addictive.
-
-This space is a **living record** of that journey.
-
----
-
-## What I actually care about
-
-I’m interested in problems that sit **between theory and reality**:
-
-- How cloud systems behave under real constraints  
-- How AI tools can be *controlled*, not just used  
-- How frontend interfaces shape how intelligence is consumed  
-- How fundamentals (OS, networks, data flow) quietly power everything  
-
-I don’t rush to frameworks.
-I try to understand *why things exist* before depending on them.
+This profile is less about *showing off*  
+and more about *showing progress*.
 
 ---
 
-## How I approach learning
+## 🧠 What I’m exploring (click to expand)
 
 <details>
-<summary><strong>📘 1. Learn the fundamentals first</strong></summary>
+<summary><strong>☁️ Cloud & Infrastructure</strong></summary>
 
-Before touching tools, I try to understand:
-- what problem is being solved  
-- what assumptions are being made  
-- what trade-offs exist  
-
-This applies equally to cloud services, AI models, and web frameworks.
+- AWS core services and deployment models  
+- Cloud responsibility, scalability, and failure handling  
+- Real-world trade-offs in cloud design  
 </details>
 
 <details>
-<summary><strong>🔧 2. Build small, complete systems</strong></summary>
+<summary><strong>🤖 AI & Automation</strong></summary>
 
-I prefer projects that go end-to-end:
-- interface → logic → deployment  
-- not just demos, but usable systems  
-
-Even simple projects teach a lot when taken seriously.
+- Prompt engineering and LLM workflows  
+- NLP basics and AI-assisted tooling  
+- Understanding limitations, not just capabilities  
 </details>
 
 <details>
-<summary><strong>🧠 3. Reflect and refine</strong></summary>
+<summary><strong>🧩 Web Engineering</strong></summary>
 
-I revisit my own code.
-I question earlier decisions.
-I refactor when something feels unclear.
-
-Progress, for me, is iterative.
+- React / Next.js for structured UI systems  
+- Frontend as an interface to logic  
+- Clean component design over quick hacks  
 </details>
 
 ---
 
-## Technical stack (tools I actively use)
+## 🛠 Tools I actually use
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-232F3E?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-232F3E?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-232F3E?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-1f1f1f?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-1f1f1f?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-1f1f1f?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-1f1f1f?style=flat-square&logo=git&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/React-232F3E?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-232F3E?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-232F3E?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-232F3E?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-1f1f1f?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-1f1f1f?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-1f1f1f?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-1f1f1f?style=flat-square&logo=javascript&logoColor=white" />
 </p>
 
 ---
 
-## What you’ll find in my repositories
-
-- Cloud deployment experiments (AWS, Vercel)
-- AI-assisted tools and workflows
-- Academic concepts translated into code
-- Projects that prioritize clarity over cleverness
-- Gradual improvement rather than sudden polish
-
-Some repositories may look simple.  
-That’s intentional.
-
----
-
-## Activity & consistency
+## 📈 Signals
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harsh-sing007&show_icons=true&theme=github_dark&hide_border=true" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=Harsh-sing007&theme=github-dark&hide_border=true" />
 </p>
 
----
-
-## Languages I work with most
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-sing007&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-sing007&bg_color=0d1117&color=ffffff&line=8b8b8b&point=ffffff&hide_border=true" />
 </p>
 
 ---
 
-## Contribution pattern
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-sing007&bg_color=0d1117&color=ffffff&line=4f83cc&point=ffffff&hide_border=true" />
-</p>
-
----
-
-## If you want to reach out
+## 🔗 Reach out
 
 <p>
   <a href="mailto:harshsingh45831@gmail.com">email</a> ·
@@ -141,5 +98,4 @@ That’s intentional.
 
 ---
 
-> I’m not trying to look impressive.  
-> I’m trying to become capable.
+> curiosity → effort → clarity
