@@ -60,19 +60,74 @@ and more about *showing progress*.
 
 ## 🛠 Tools I actually use
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-1f1f1f?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-1f1f1f?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-1f1f1f?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-1f1f1f?style=flat-square&logo=git&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/React-1f1f1f?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-1f1f1f?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-1f1f1f?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-1f1f1f?style=flat-square&logo=javascript&logoColor=white" />
+## 🛠 Tools I actually use
+
+<p align="center">
+  <svg width="720" height="160" viewBox="0 0 720 160" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .card {
+        fill: #161b22;
+        stroke: #30363d;
+        stroke-width: 1;
+        rx: 14;
+        transition: all 0.3s ease;
+      }
+      .card:hover {
+        transform: translateY(-4px);
+        fill: #1f2937;
+      }
+      .label {
+        font: 14px 'Segoe UI', sans-serif;
+        fill: #e6edf3;
+        text-anchor: middle;
+      }
+      .icon {
+        font-size: 28px;
+        text-anchor: middle;
+      }
+    </style>
+
+    <!-- AWS -->
+    <g transform="translate(40,30)">
+      <rect class="card" width="120" height="100"/>
+      <text class="icon" x="60" y="48">☁️</text>
+      <text class="label" x="60" y="78">AWS</text>
+    </g>
+
+    <!-- Docker -->
+    <g transform="translate(180,30)">
+      <rect class="card" width="120" height="100"/>
+      <text class="icon" x="60" y="48">🐳</text>
+      <text class="label" x="60" y="78">Docker</text>
+    </g>
+
+    <!-- Linux -->
+    <g transform="translate(320,30)">
+      <rect class="card" width="120" height="100"/>
+      <text class="icon" x="60" y="48">🐧</text>
+      <text class="label" x="60" y="78">Linux</text>
+    </g>
+
+    <!-- Git -->
+    <g transform="translate(460,30)">
+      <rect class="card" width="120" height="100"/>
+      <text class="icon" x="60" y="48">🌱</text>
+      <text class="label" x="60" y="78">Git</text>
+    </g>
+
+    <!-- JavaScript -->
+    <g transform="translate(600,30)">
+      <rect class="card" width="120" height="100"/>
+      <text class="icon" x="60" y="48">🧩</text>
+      <text class="label" x="60" y="78">JavaScript</text>
+    </g>
+  </svg>
 </p>
 
----
+<p align="center">
+  tools I reach for when I want things to actually work
+</p>
+
 
 ## 📈 Signals
 
