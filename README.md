@@ -60,89 +60,92 @@ and more about *showing progress*.
 
 ## 🛠 Tools I actually use
 
+## 🛠 Tools I actually use
+
 <p align="center">
-  <svg width="760" height="210" viewBox="0 0 760 210" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .card {
-        fill: #0d1117;
-        stroke: #30363d;
-        stroke-width: 1;
-        rx: 14;
-        transition: all 0.25s ease;
-      }
-      .card:hover {
-        transform: translateY(-6px);
-        fill: #161b22;
-      }
-      .title {
-        font: 13px system-ui, sans-serif;
-        fill: #c9d1d9;
-        text-anchor: middle;
-        letter-spacing: 0.4px;
-      }
-      .icon {
-        font-size: 30px;
-        text-anchor: middle;
-      }
-    </style>
+<svg width="760" height="220" viewBox="0 0 760 220" xmlns="http://www.w3.org/2000/svg">
 
-    <!-- Row 1 -->
-    <g transform="translate(40,30)">
-      <rect class="card" width="120" height="110"/>
-      <text class="icon" x="60" y="52">☁️</text>
-      <text class="title" x="60" y="86">AWS</text>
-    </g>
+  <style><![CDATA[
+    .card {
+      fill: #0d1117;
+      stroke: #30363d;
+      stroke-width: 1;
+      rx: 14;
+      transition: all 0.25s ease;
+    }
+    .card:hover {
+      transform: translateY(-6px);
+      fill: #161b22;
+    }
+    .title {
+      font: 13px system-ui, sans-serif;
+      fill: #c9d1d9;
+      text-anchor: middle;
+      letter-spacing: 0.4px;
+    }
+    .icon {
+      font-size: 30px;
+      text-anchor: middle;
+    }
+  ]]></style>
 
-    <g transform="translate(180,30)">
-      <rect class="card" width="120" height="110"/>
-      <text class="icon" x="60" y="52">🐳</text>
-      <text class="title" x="60" y="86">Docker</text>
-    </g>
+  <!-- Row 1 -->
+  <g transform="translate(40,30)">
+    <rect class="card" width="120" height="110"/>
+    <text class="icon" x="60" y="52">☁️</text>
+    <text class="title" x="60" y="86">AWS</text>
+  </g>
 
-    <g transform="translate(320,30)">
-      <rect class="card" width="120" height="110"/>
-      <text class="icon" x="60" y="52">🐧</text>
-      <text class="title" x="60" y="86">Linux</text>
-    </g>
+  <g transform="translate(180,30)">
+    <rect class="card" width="120" height="110"/>
+    <text class="icon" x="60" y="52">🐳</text>
+    <text class="title" x="60" y="86">Docker</text>
+  </g>
 
-    <g transform="translate(460,30)">
-      <rect class="card" width="120" height="110"/>
-      <text class="icon" x="60" y="52">🌱</text>
-      <text class="title" x="60" y="86">Git</text>
-    </g>
+  <g transform="translate(320,30)">
+    <rect class="card" width="120" height="110"/>
+    <text class="icon" x="60" y="52">🐧</text>
+    <text class="title" x="60" y="86">Linux</text>
+  </g>
 
-    <g transform="translate(600,30)">
-      <rect class="card" width="120" height="110"/>
-      <text class="icon" x="60" y="52">🧩</text>
-      <text class="title" x="60" y="86">JavaScript</text>
-    </g>
+  <g transform="translate(460,30)">
+    <rect class="card" width="120" height="110"/>
+    <text class="icon" x="60" y="52">🌱</text>
+    <text class="title" x="60" y="86">Git</text>
+  </g>
 
-    <!-- Row 2 -->
-    <g transform="translate(160,150)">
-      <rect class="card" width="120" height="110"/>
-      <text class="icon" x="60" y="52">⚛️</text>
-      <text class="title" x="60" y="86">React</text>
-    </g>
+  <g transform="translate(600,30)">
+    <rect class="card" width="120" height="110"/>
+    <text class="icon" x="60" y="52">🧩</text>
+    <text class="title" x="60" y="86">JavaScript</text>
+  </g>
 
-    <g transform="translate(300,150)">
-      <rect class="card" width="120" height="110"/>
-      <text class="icon" x="60" y="52">➡️</text>
-      <text class="title" x="60" y="86">Next.js</text>
-    </g>
+  <!-- Row 2 -->
+  <g transform="translate(160,150)">
+    <rect class="card" width="120" height="110"/>
+    <text class="icon" x="60" y="52">⚛️</text>
+    <text class="title" x="60" y="86">React</text>
+  </g>
 
-    <g transform="translate(440,150)">
-      <rect class="card" width="120" height="110"/>
-      <text class="icon" x="60" y="52">🎨</text>
-      <text class="title" x="60" y="86">Tailwind</text>
-    </g>
-  </svg>
+  <g transform="translate(300,150)">
+    <rect class="card" width="120" height="110"/>
+    <text class="icon" x="60" y="52">➡️</text>
+    <text class="title" x="60" y="86">Next.js</text>
+  </g>
+
+  <g transform="translate(440,150)">
+    <rect class="card" width="120" height="110"/>
+    <text class="icon" x="60" y="52">🎨</text>
+    <text class="title" x="60" y="86">Tailwind</text>
+  </g>
+
+</svg>
 </p>
 
 <p align="center">
   <sub>tools I reach for when building real systems</sub>
 </p>
 
----
 
 ## 📈 Signals
 
