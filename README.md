@@ -25,8 +25,7 @@ I like working where:
 - interfaces shape intelligence  
 - small decisions scale into big outcomes  
 
-This profile is less about *showing off*  
-and more about *showing progress*.
+This profile is less about *showing off*  and more about *showing progress*.
 
 ---
 
