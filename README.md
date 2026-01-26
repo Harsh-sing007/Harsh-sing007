@@ -1,5 +1,5 @@
 <h1 align="center">
-  Harsh
+  Harsh Singh
 </h1>
 
 <p align="center">
