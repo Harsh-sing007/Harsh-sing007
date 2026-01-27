@@ -57,21 +57,40 @@ This profile is less about *showing off*  and more about *showing progress*.
 
 ---
 
-## 🛠 Tools I actually use
+## 🛠 Techstack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-1f1f1f?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-1f1f1f?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-1f1f1f?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-1f1f1f?style=flat-square&logo=git&logoColor=white" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-1f1f1f?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-1f1f1f?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-1f1f1f?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-1f1f1f?style=flat-square&logo=javascript&logoColor=white" />
-</p>
+<!-- Cloud & DevOps -->
+<img src="https://skillicons.dev/icons?i=aws" width="70"/>
+<img src="https://skillicons.dev/icons?i=azure" width="70"/>
+<img src="https://skillicons.dev/icons?i=docker" width="70"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" width="70"/>
+<img src="https://skillicons.dev/icons?i=jenkins" width="70"/>
+<img src="https://skillicons.dev/icons?i=githubactions" width="70"/>
+
+<!-- Programming -->
+<img src="https://skillicons.dev/icons?i=c" width="70"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="70"/>
+<img src="https://skillicons.dev/icons?i=java" width="70"/>
+<img src="https://skillicons.dev/icons?i=python" width="70"/>
+
+<!-- Web & APIs -->
+<img src="https://skillicons.dev/icons?i=html" width="70"/>
+<img src="https://skillicons.dev/icons?i=css" width="70"/>
+<img src="https://skillicons.dev/icons?i=javascript" width="70"/>
+<img src="https://skillicons.dev/icons?i=postman" width="70"/>
+
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=mysql" width="70"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="70"/>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git" width="70"/>
+<img src="https://skillicons.dev/icons?i=linux" width="70"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="70"/>
+
+</div>
 
 ---
 
