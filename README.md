@@ -59,47 +59,7 @@ This profile is less about *showing off*  and more about *showing progress*.
 
 ## 🛠 Techstack
 
-<div align="center">
-
-<!-- Cloud & DevOps -->
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60"/>
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="60"/>
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="60"/>
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="60"/>
-<img src="https://media.giphy.com/media/j6fFt9jMfU1Vkdhegr/giphy.gif" width="60"/>
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="60"/>
-
-<br/><br/>
-
-<!-- Programming -->
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60"/>
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60"/>
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="60"/>
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60"/>
-
-<br/><br/>
-
-<!-- Web & APIs -->
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="60"/>
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60"/>
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60"/>
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60"/>
-
-<br/><br/>
-
-<!-- Databases -->
-<img src="https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif" width="60"/>
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60"/>
-
-<br/><br/>
-
-<!-- Tools -->
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60"/>
-<img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="60"/>
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60"/>
-
-</div>
-
+<div align="center"> <!-- Cloud & DevOps --> <img src="https://skillicons.dev/icons?i=aws" width="70"/> <img src="https://skillicons.dev/icons?i=azure" width="70"/> <img src="https://skillicons.dev/icons?i=docker" width="70"/> <img src="https://skillicons.dev/icons?i=kubernetes" width="70"/> <img src="https://skillicons.dev/icons?i=jenkins" width="70"/> <img src="https://skillicons.dev/icons?i=githubactions" width="70"/> <!-- Programming --> <img src="https://skillicons.dev/icons?i=c" width="70"/> <img src="https://skillicons.dev/icons?i=cpp" width="70"/> <img src="https://skillicons.dev/icons?i=java" width="70"/> <img src="https://skillicons.dev/icons?i=python" width="70"/> <!-- Web & APIs --> <img src="https://skillicons.dev/icons?i=html" width="70"/> <img src="https://skillicons.dev/icons?i=css" width="70"/> <img src="https://skillicons.dev/icons?i=javascript" width="70"/> <img src="https://skillicons.dev/icons?i=postman" width="70"/> <!-- Databases --> <img src="https://skillicons.dev/icons?i=mysql" width="70"/> <img src="https://skillicons.dev/icons?i=mongodb" width="70"/> <!-- Tools --> <img src="https://skillicons.dev/icons?i=git" width="70"/> <img src="https://skillicons.dev/icons?i=linux" width="70"/> <img src="https://skillicons.dev/icons?i=vscode" width="70"/> </div> --- ## 📈 Signals <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harsh-sing007&show_icons=true&theme=github_dark&hide_border=true" /> <img width="48%" src="https://streak-stats.demolab.com/?user=Harsh-sing007&theme=github-dark&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-sing007&bg_color=0d1117&color=ffffff&line=8b8b8b&point=ffffff&hide_border=true" /> </p> ---
 
 ## 🔗 Reach out
 
