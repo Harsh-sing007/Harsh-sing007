@@ -58,41 +58,46 @@ This profile is less about *showing off*  and more about *showing progress*.
 ---
 
 ## 🛠 Techstack
-
 <div align="center">
 
 <!-- Cloud & DevOps -->
-<img src="https://skillicons.dev/icons?i=aws" width="70"/>
-<img src="https://skillicons.dev/icons?i=azure" width="70"/>
-<img src="https://skillicons.dev/icons?i=docker" width="70"/>
-<img src="https://skillicons.dev/icons?i=kubernetes" width="70"/>
-<img src="https://skillicons.dev/icons?i=jenkins" width="70"/>
-<img src="https://skillicons.dev/icons?i=githubactions" width="70"/>
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" title="AWS"/>
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="60" title="Azure"/>
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="60" title="Docker"/>
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="60" title="Kubernetes"/>
+<img src="https://media.giphy.com/media/j6fFt9jMfU1Vkdhegr/giphy.gif" width="60" title="Jenkins"/>
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="60" title="GitHub Actions"/>
+
+<br/><br/>
 
 <!-- Programming -->
-<img src="https://skillicons.dev/icons?i=c" width="70"/>
-<img src="https://skillicons.dev/icons?i=cpp" width="70"/>
-<img src="https://skillicons.dev/icons?i=java" width="70"/>
-<img src="https://skillicons.dev/icons?i=python" width="70"/>
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60" title="C"/>
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60" title="C++"/>
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="60" title="Java"/>
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60" title="Python"/>
+
+<br/><br/>
 
 <!-- Web & APIs -->
-<img src="https://skillicons.dev/icons?i=html" width="70"/>
-<img src="https://skillicons.dev/icons?i=css" width="70"/>
-<img src="https://skillicons.dev/icons?i=javascript" width="70"/>
-<img src="https://skillicons.dev/icons?i=postman" width="70"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NtbjQ4cG40d3JzY3JxZzFhM2V5dXc1bXhycTdxMGFvZ3NtbGZkZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="60" title="HTML"/>
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60" title="CSS"/>
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" title="JavaScript"/>
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" title="Postman"/>
+
+<br/><br/>
 
 <!-- Databases -->
-<img src="https://skillicons.dev/icons?i=mysql" width="70"/>
-<img src="https://skillicons.dev/icons?i=mongodb" width="70"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl3ZTZwOGp6N2JrOWF5N2VxMm5hbHJvZ3ZkYm50OW9xNXZxNmdwZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6heBQSjt2IoA8/giphy.gif" width="60" title="MySQL"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2R2Ymp4d3ZlZzVwNHl4dWJkZTZmbnczOG8ydDNoZG9lYTF2ZTZwNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="60" title="MongoDB"/>
+
+<br/><br/>
 
 <!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git" width="70"/>
-<img src="https://skillicons.dev/icons?i=linux" width="70"/>
-<img src="https://skillicons.dev/icons?i=vscode" width="70"/>
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" title="Git"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJ4dndhbnE1bGlhMXN4bWZ0NWFtN2Fyb2N0ZmVnY3E0ZXhxMWxjYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlHFRbmaZtBRhXG/giphy.gif" width="60" title="Linux"/>
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60" title="VS Code"/>
 
 </div>
-
----
 
 ## 📈 Signals
 
