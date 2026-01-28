@@ -25,7 +25,8 @@ I like working where:
 - interfaces shape intelligence  
 - small decisions scale into big outcomes  
 
-This profile is less about *showing off*  and more about *showing progress*.
+This profile is less about *showing off*  
+and more about *showing progress*.
 
 ---
 
@@ -37,6 +38,7 @@ This profile is less about *showing off*  and more about *showing progress*.
 - AWS core services and deployment models  
 - Cloud responsibility & scalability  
 - Failure handling and trade-offs  
+
 </details>
 
 <details>
@@ -45,6 +47,7 @@ This profile is less about *showing off*  and more about *showing progress*.
 - Prompt engineering & LLM workflows  
 - NLP basics  
 - AI-assisted tooling  
+
 </details>
 
 <details>
@@ -53,15 +56,76 @@ This profile is less about *showing off*  and more about *showing progress*.
 - React / Next.js  
 - Frontend as a system interface  
 - Clean component design  
+
 </details>
 
 ---
 
 ## 🛠 Techstack
 
-<div align="center"> <!-- Cloud & DevOps --> <img src="https://skillicons.dev/icons?i=aws" width="70"/> <img src="https://skillicons.dev/icons?i=azure" width="70"/> <img src="https://skillicons.dev/icons?i=docker" width="70"/> <img src="https://skillicons.dev/icons?i=kubernetes" width="70"/> <img src="https://skillicons.dev/icons?i=jenkins" width="70"/> <img src="https://skillicons.dev/icons?i=githubactions" width="70"/> <!-- Programming --> <img src="https://skillicons.dev/icons?i=c" width="70"/> <img src="https://skillicons.dev/icons?i=cpp" width="70"/> <img src="https://skillicons.dev/icons?i=java" width="70"/> <img src="https://skillicons.dev/icons?i=python" width="70"/> <!-- Web & APIs --> <img src="https://skillicons.dev/icons?i=html" width="70"/> <img src="https://skillicons.dev/icons?i=css" width="70"/> <img src="https://skillicons.dev/icons?i=javascript" width="70"/> <img src="https://skillicons.dev/icons?i=postman" width="70"/> <!-- Databases --> <img src="https://skillicons.dev/icons?i=mysql" width="70"/> <img src="https://skillicons.dev/icons?i=mongodb" width="70"/> <!-- Tools --> <img src="https://skillicons.dev/icons?i=git" width="70"/> <img src="https://skillicons.dev/icons?i=linux" width="70"/> <img src="https://skillicons.dev/icons?i=vscode" width="70"/> </div> 
+<div align="center">
 
---- ## 📈 Signals <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harsh-sing007&show_icons=true&theme=github_dark&hide_border=true" /> <img width="48%" src="https://streak-stats.demolab.com/?user=Harsh-sing007&theme=github-dark&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-sing007&bg_color=0d1117&color=ffffff&line=8b8b8b&point=ffffff&hide_border=true" /> </p> ---
+  <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws" width="70"/>
+  <img src="https://skillicons.dev/icons?i=azure" width="70"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="70"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="70"/>
+  <img src="https://skillicons.dev/icons?i=jenkins" width="70"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" width="70"/>
+
+  <br/><br/>
+
+  <!-- Programming -->
+  <img src="https://skillicons.dev/icons?i=c" width="70"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="70"/>
+  <img src="https://skillicons.dev/icons?i=java" width="70"/>
+  <img src="https://skillicons.dev/icons?i=python" width="70"/>
+
+  <br/><br/>
+
+  <!-- Web & APIs -->
+  <img src="https://skillicons.dev/icons?i=html" width="70"/>
+  <img src="https://skillicons.dev/icons?i=css" width="70"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="70"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="70"/>
+
+  <br/><br/>
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql" width="70"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="70"/>
+
+  <br/><br/>
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git" width="70"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="70"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="70"/>
+
+</div>
+
+---
+
+## 📈 Stats
+
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=Harsh-sing007&show_icons=true&theme=github_dark&hide_border=true"
+  />
+  <img
+    width="48%"
+    src="https://streak-stats.demolab.com/?user=Harsh-sing007&theme=github-dark&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-sing007&bg_color=0d1117&color=ffffff&line=8b8b8b&point=ffffff&hide_border=true"
+  />
+</p>
+
+---
 
 ## 🔗 Reach out
 
@@ -84,4 +148,3 @@ This profile is less about *showing off*  and more about *showing progress*.
 <p align="center">
   <sub>curiosity → effort → clarity</sub>
 </p>
-
