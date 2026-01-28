@@ -118,4 +118,14 @@ This profile is less about *showing off*  and more about *showing progress*.
 
 ---
 
-> curiosity → effort → clarity
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3R1Z2o2ZDRzZ3h6c2JxczZ1a3RzN3F3c2U3ZzY5dWxqczJkY2ZlMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41lI4bYmcsPJX9Go/giphy.gif" 
+    width="280"
+  />
+</p>
+
+<p align="center">
+  <sub>curiosity → effort → clarity</sub>
+</p>
+
