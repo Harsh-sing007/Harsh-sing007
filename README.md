@@ -3,30 +3,34 @@
 </h1>
 
 <p align="center">
-  Cloud · AI · Web Systems
+  <i>building systems in silence • learning through depth • shipping with intent</i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=900&center=true&vCenter=true&width=520&lines=building+systems+that+make+sense;learning+by+doing;thinking+in+flows+not+features" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harsh-sing007&label=views&color=7c7c7c&style=flat-square" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1200&center=true&vCenter=true&width=520&lines=Web+Developer;Cloud+%26+Backend+Enthusiast;Problem+Solver;Learning+by+Doing" />
 </p>
 
 ---
 
-## 👋 Quick context
+<h2 align="center">🕯️ About me</h2>
 
-I’m a **Cloud Computing student** exploring how **modern systems are built, deployed, and evolved**.
+<p align="center">
+  I move quietly through unfinished ideas,<br/>
+  learning to hold both doubt and direction at once.
+</p>
 
-I like working where:
-- infrastructure meets code  
-- interfaces shape intelligence  
-- small decisions scale into big outcomes  
+<p align="center">
+  I’m drawn to systems the way others are drawn to noise —<br/>
+  the parts that work unseen,<br/>
+  the structure beneath the surface.
+</p>
 
-This profile is less about *showing off*  
-and more about *showing progress*.
+<p align="center">
+  Progress, for me, is not sudden clarity<br/>
+  but patience, repetition,<br/>
+  and choosing to keep going when no one is watching.
+</p>
+
 
 ---
 
