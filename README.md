@@ -140,7 +140,7 @@ and more about *showing progress*.
 
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3R1Z2o2ZDRzZ3h6c2JxczZ1a3RzN3F3c2U3ZzY5dWxqczJkY2ZlMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41lI4bYmcsPJX9Go/giphy.gif" 
+    src="https://media.giphy.com/media/l0NwGpoOVLTAyUJSo/giphy.gif" 
     width="280"
   />
 </p>
