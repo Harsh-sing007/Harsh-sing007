@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/6583341566cc8d8652c3e42f74feebb6/tumblr_p1c6qnR49G1wwjnmro1_640.gif" width="100%">
+  <img src="https://i.imgur.com/OVs5etE.gif" width="100%">
 </p>
 <h1 align="center">
   Harsh Singh
