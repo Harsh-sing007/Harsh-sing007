@@ -148,7 +148,7 @@
 <p align="center">
   <img 
     src="https://media.giphy.com/media/l0NwGpoOVLTAyUJSo/giphy.gif" 
-    width="280"
+    width="100%"
   />
 </p>
 
