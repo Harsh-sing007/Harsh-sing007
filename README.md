@@ -146,10 +146,7 @@
 ---
 
 <p align="center">
-  <img 
-    src="https://media.giphy.com/media/l0NwGpoOVLTAyUJSo/giphy.gif" 
-    width="100%"
-  />
+  <img src="https://i.pinimg.com/originals/dc/a9/1e/dca91e2e144acee955a0a95990fa4916.gif" width="100%">
 </p>
 
 <p align="center">
