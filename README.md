@@ -149,10 +149,6 @@
   <img src="https://i.pinimg.com/originals/dc/a9/1e/dca91e2e144acee955a0a95990fa4916.gif" width="100%">
 </p>
 
-<p align="center">
-  <sub>curiosity → effort → clarity</sub>
-</p>
-
 ---
 
 <div align="center">
