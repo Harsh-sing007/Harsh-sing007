@@ -139,7 +139,6 @@
 <p align="center">
   <a href="mailto:harshsingh45831@gmail.com">email</a> ·
   <a href="https://www.linkedin.com/in/harsh-singh1712/">linkedin</a> ·
-  <a href="https://github.com/Harsh-sing007">github</a> ·
   <a href="https://vercel.com/harsh-singhs-projects-96373391">vercel</a>
 </p>
 
